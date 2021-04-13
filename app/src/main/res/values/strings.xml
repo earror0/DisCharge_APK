@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AdapterCharge</string>
+    <string name="update_data">上报数据</string>
+    <string name="start_discharge">按场景开始放电</string>
+    <string name="current_level">当前电量</string>
+    <string name="refresh_level">刷新电量</string>
+    <string name="play_music">音乐播放</string>
+    <string name="play_video">视频播放</string>
+    <string name="record_video">视频录制</string>
+    <string name="hardware_control">硬件耗电</string>
+    <string name="title_activity_video">Video</string>
+    <string name="start_record">开始录制</string>
+    <string name="stop_record">停止录制</string>
+    <string name="stop_discharge">停止放电</string>
+    <string name="target_level">目标放电量:</string>
+    <string name="default_level">0%</string>
+    <string name="discharge_by_level">按百分比放电</string>
+    <string name="start_discharge_by_time">按时长耗电</string>
+    <string name="target_discharge_time">目标放电时长(单位H)</string>
+    <string name="default_time">0</string>
+    <string name="input_time">输入耗电时长</string>
+</resources>
